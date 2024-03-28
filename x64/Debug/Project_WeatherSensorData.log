@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\User\source\repos\Project_WeatherSensorData\Project_WeatherSensorData\main.cpp(57,10): warning C4101: keyPressed: неиспользованная локальная переменная
+  Project_WeatherSensorData.vcxproj -> C:\Users\User\source\repos\Project_WeatherSensorData\x64\Debug\Project_WeatherSensorData.exe
